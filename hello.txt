@@ -1,9 +1,12 @@
-hello atguigu!hello git!222
+hello atgigu!hello git!222
 
 hello atguigu!hello git!
 
 hello atguigu!hello git!33
 hello atguigu!hello git!
 hello atguigu!hello git!
+<<<<<<< HEAD
 hello atguigu!hello git!master test
-hello atguigu!hello git!
+=======
+hello atguigu!hello git!hot-fix test
+>>>>>>> hot-fix
